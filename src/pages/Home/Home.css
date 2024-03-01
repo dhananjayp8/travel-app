@@ -1,5 +1,5 @@
 .main{
-    padding: 11rem 3rem 2rem 3rem;
+    padding :11rem 2rem 2rem 2rem;
 }
 .gap-larger {
     gap: 3rem;
@@ -9,3 +9,7 @@
     margin: 2rem 0;
     text-align: center;
   } 
+  .cardDisplay{
+    display: flex;
+    flex-wrap: wrap;
+  }

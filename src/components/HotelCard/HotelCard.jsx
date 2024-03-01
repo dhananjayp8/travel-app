@@ -16,7 +16,7 @@ export const HotelCard=({hotel})=>{
                  <p className="hotel-name">{name}</p>
                  <p className="price-details ">
                      <span className="price">Rs. {price}</span>
-                     <span>night</span>
+                     <span>/ night</span>
                  </p>
              </div>
              </div>
