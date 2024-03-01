@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"); 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:&display=swap");
 @import url("./components/Navbar/Navbar.css");
-
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0");
 
 :root{
     --background-color: ■ #fafafa;
