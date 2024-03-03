@@ -34,6 +34,7 @@ export const Categories=()=>{
         console.log({hotelCategory});
          setHotelCategory(category);
       }
+      console.log()
     return(<section className="categories d-flex align-center gap-large cursor-pointer">
         
          { numberOfCategoryToShow>=10 && (
